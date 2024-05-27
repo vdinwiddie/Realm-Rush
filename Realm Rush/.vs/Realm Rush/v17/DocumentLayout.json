@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\Projects\\Realm Rush\\Realm Rush\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\enemy\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|d:\\projects\\realm rush\\realm rush\\assets\\tower\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|d:\\projects\\realm rush\\realm rush\\assets\\tiles\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\enemy\\scripts\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\scripts\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\enemy\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\tiles\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\enemy\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\tiles\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\bank\\scripts\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\bank\\scripts\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\tower\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\tiles\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\tower\\scripts\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\scripts\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Projects\\Realm Rush\\Realm Rush\\assets\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,117 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bank.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Bank\\Scripts\\Bank.cs",
-              "RelativeDocumentMoniker": "Assets\\Bank\\Scripts\\Bank.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Bank\\Scripts\\Bank.cs",
-              "RelativeToolTip": "Assets\\Bank\\Scripts\\Bank.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwBwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T23:53:42.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Enemy\\Scripts\\Enemy.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Enemy\\Scripts\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T21:12:45.229Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnemyHealth.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\EnemyHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Enemy\\Scripts\\EnemyHealth.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\EnemyHealth.cs",
-              "RelativeToolTip": "Assets\\Enemy\\Scripts\\EnemyHealth.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA9wAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T20:29:17.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ObjectPool.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\ObjectPool.cs",
-              "RelativeDocumentMoniker": "Assets\\Enemy\\Scripts\\ObjectPool.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\ObjectPool.cs",
-              "RelativeToolTip": "Assets\\Enemy\\Scripts\\ObjectPool.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:57:24.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyMover.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\EnemyMover.cs",
-              "RelativeDocumentMoniker": "Assets\\Enemy\\Scripts\\EnemyMover.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\EnemyMover.cs",
-              "RelativeToolTip": "Assets\\Enemy\\Scripts\\EnemyMover.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAcwFAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:33:12.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoordinateLabeler.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
-              "RelativeDocumentMoniker": "Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
-              "RelativeToolTip": "Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowC0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:58:06.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Waypoint.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\Waypoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Tiles\\Scripts\\Waypoint.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\Waypoint.cs",
-              "RelativeToolTip": "Assets\\Tiles\\Scripts\\Waypoint.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:58:28.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TargetLocator.cs",
-              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tower\\Scripts\\TargetLocator.cs",
-              "RelativeDocumentMoniker": "Assets\\Tower\\Scripts\\TargetLocator.cs",
-              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tower\\Scripts\\TargetLocator.cs",
-              "RelativeToolTip": "Assets\\Tower\\Scripts\\TargetLocator.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T20:39:19.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Tower.cs",
               "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tower\\Scripts\\Tower.cs",
               "RelativeDocumentMoniker": "Assets\\Tower\\Scripts\\Tower.cs",
               "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tower\\Scripts\\Tower.cs",
               "RelativeToolTip": "Assets\\Tower\\Scripts\\Tower.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAtAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T21:26:46.393Z"
+              "WhenOpened": "2024-05-26T06:10:06.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\Tile.cs",
+              "RelativeDocumentMoniker": "Assets\\Tiles\\Scripts\\Tile.cs",
+              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\Tile.cs",
+              "RelativeToolTip": "Assets\\Tiles\\Scripts\\Tile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:32:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyMover.cs",
+              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\EnemyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\Scripts\\EnemyMover.cs",
+              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Enemy\\Scripts\\EnemyMover.cs",
+              "RelativeToolTip": "Assets\\Enemy\\Scripts\\EnemyMover.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwDoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:08:54.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoordinateLabeler.cs",
+              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
+              "RelativeDocumentMoniker": "Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
+              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
+              "RelativeToolTip": "Assets\\Tiles\\Scripts\\CoordinateLabeler.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:40:01.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pathfinder.cs",
+              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Pathfinding\\Pathfinder.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding\\Pathfinder.cs",
+              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Pathfinding\\Pathfinder.cs",
+              "RelativeToolTip": "Assets\\Pathfinding\\Pathfinder.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:12:44.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Pathfinding\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding\\GridManager.cs",
+              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Pathfinding\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Pathfinding\\GridManager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwD0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:07:31.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Pathfinding\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding\\Node.cs",
+              "ToolTip": "D:\\Projects\\Realm Rush\\Realm Rush\\Assets\\Pathfinding\\Node.cs",
+              "RelativeToolTip": "Assets\\Pathfinding\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:59:21.044Z"
             }
           ]
         }
